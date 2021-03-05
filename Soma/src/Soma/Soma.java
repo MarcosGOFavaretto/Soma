@@ -1,7 +1,7 @@
 /**
- * Programa: Soma
- * Autor: Marcos Gabriel De Oliveira Favaretto
- * Data: 30 de Julho de 2019
+ * Programa: Soma.
+ * Autor: Marcos Gabriel De Oliveira Favaretto.
+ * Data: 30 de Julho de 2019.
  */
 package Soma;
 
